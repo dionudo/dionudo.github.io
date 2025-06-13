@@ -3,7 +3,6 @@ title: "Live Coding Prompts Engagement, But Not Necessarily Grades"
 collection: publications
 category: conferences
 permalink: /publication/livecoding
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-02-12
 venue: 'SIGCSE TS 2025: The 56th ACM Technical Symposium on Computer Science Education'
 paperurl: 'https://dl.acm.org/doi/10.1145/3641554.3701794'
