@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dion Udokop"
-  pronouns         : # example: "she/they"  
+  pronouns         : "she/they"  
   bio              : "CS Master's student interested in AI and education"
   location         : "Bellingham, WA, USA"
   employer         : "Western Washington University"
